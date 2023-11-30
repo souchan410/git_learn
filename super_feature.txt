@@ -1,1 +1,3 @@
-super code for general purpose
+super code for general
+
+second string
